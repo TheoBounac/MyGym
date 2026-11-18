@@ -1,0 +1,18 @@
+export const AppColors = {
+  accent: '#FB7A25',
+  accentMuted: '#E66A25',
+  accentSoft: '#FFC08A',
+  background: '#211B35',
+  border: '#5A5177',
+  danger: '#F87171',
+  dangerSoft: '#4A2A3C',
+  muted: '#C9C1DE',
+  overlay: 'rgba(33, 27, 53, 0.66)',
+  overlaySoft: 'rgba(33, 27, 53, 0.24)',
+  planningBackground: '#D9D2F0',
+  primary: '#8B7CFF',
+  primarySoft: '#C9C2FF',
+  surface: '#2B2442',
+  surfaceHigh: '#382F55',
+  text: '#FFFDF8',
+};
